@@ -1,7 +1,7 @@
 name: Merro Design
 favicon: null
-layout_spectrum: 0.55585519480519
-typography_spectrum: 0.18886802159249783
+layout_spectrum: 0.49075
+typography_spectrum: 0.49772
 title: Merro Design
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.2632528131362051
+  brandStrength: 0.25
   lightness: 0.35261726030148566
   saturation: 0.7273096623830497
   rhythmicContrast: 0.224447310436517
