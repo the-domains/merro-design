@@ -1,0 +1,28 @@
+name: Merro Design
+favicon: null
+layout_spectrum: 0.55585519480519
+typography_spectrum: 0.18886802159249783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2632528131362051
+  lightness: 0.35261726030148566
+  saturation: 0.7273096623830497
+  rhythmicContrast: 0.224447310436517
+purpose: []
