@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Merro Design]]></title>
         <description><![CDATA[Merro Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/merro-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:15:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 22:19:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/merro-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Merro designs memorable invitations that bring to life your event and dazzle your guests. </p>]]></description>
-            <link>undefinedmerro-designs-memorable-invitations-that-bring-to-life-your/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/137749a5-4250-424f-b10d-8742a6259b69.jpg">]]></description>
+            <link>https://thegrid.ai/merro-design/ecb6a64e-7d4b-46f8-beea-121e7b812c48/index.html</link>
+            <guid isPermaLink="false">ecb6a64e-7d4b-46f8-beea-121e7b812c48</guid>
+            <pubDate>Tue, 07 Jun 2016 22:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Merro designs memorable invitations that bring to life your event and dazzle your guests.</p>]]></description>
+            <link>https://thegrid.ai/merro-design/merro-designs-memorable-invitations-that-bring-to-life-your/index.html</link>
             <guid isPermaLink="false">69f99364-74e0-46fd-8fec-abe2eef0c5ea</guid>
             <pubDate>Tue, 07 Jun 2016 22:15:31 GMT</pubDate>
         </item>
